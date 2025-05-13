@@ -33,43 +33,23 @@
 
 ## 🛠️ Tecnologias que Domino
 
-<style>
-  .tech-card {
-    display: inline-block;
-    margin: 10px;
-    padding: 15px;
-    border-radius: 15px;
-    background:rgba(31, 31, 31, 0);
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.34);
-    transition: transform 0.3s ease;
-    text-align: center;
-  }
-  .tech-card:hover {
-    transform: translateY(-5px) scale(1.05);
-  }
-  .tech-card img {
-    width: 40px;
-    height: 40px;
-  }
-</style>
-
 <p align="center">
-  <span class="tech-card"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML"/><br/>HTML</span>
-  <span class="tech-card"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS"/><br/>CSS</span>
-  <span class="tech-card"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JS"/><br/>JavaScript</span>
-  <span class="tech-card"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TS"/><br/>TypeScript</span>
-  <span class="tech-card"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React"/><br/>React</span>
-  <span class="tech-card"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter"/><br/>Flutter</span>
-  <span class="tech-card"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap"/><br/>Bootstrap</span>
-  <span class="tech-card"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="MUI"/><br/>Material UI</span>
-  <span class="tech-card"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jQuery"/><br/>jQuery</span>
-  <span class="tech-card"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP"/><br/>PHP</span>
-  <span class="tech-card"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel"/><br/>Laravel</span>
-  <span class="tech-card"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node"/><br/>Node.js</span>
-  <span class="tech-card"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL"/><br/>MySQL</span>
-  <span class="tech-card"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle"/><br/>Oracle</span>
-  <span class="tech-card"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/><br/>Git</span>
-  <span class="tech-card"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub"/><br/>GitHub</span>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" alt="HTML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px" alt="CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40px" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40px" alt="Flutter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40px" alt="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="40px" alt="Material UI" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="40px" alt="jQuery" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40px" alt="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40px" alt="Laravel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40px" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40px" alt="Oracle" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40px" alt="GitHub" />
 </p>
 
 ---
@@ -78,7 +58,7 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=mateusbarret0&theme=tokyonight&hide_border=false&locale=pt_BR" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusbarret0&layout=compact&theme=tokyonight&langs_count=8&custom_title=Linguagens%20Mais%20Usadas" height="180px" style="margin-left:10px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusbarret0&layout=compact&theme=tokyonight&langs_count=8&custom_title=Linguagens%20Mais%20Usadas" height="180px" />
 </p>
 
 ---
