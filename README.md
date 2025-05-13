@@ -64,5 +64,5 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Mateus+Barreto+%3A%29;Desenvolvedor+FullStack;Sempre+em+evolução!;Vamos+construir+algo+juntos!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Mateus+Barreto+%3A%29;Desenvolvedor+FullStack;Sempre+em+evolu%C3%A7%C3%A3o!;Vamos+construir+algo+juntos!" alt="Typing SVG" />
 </div>
