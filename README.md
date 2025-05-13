@@ -58,11 +58,11 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=mateusbarret0&theme=tokyonight&hide_border=false&locale=pt_BR" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusbarret0&layout=compact&theme=tokyonight&langs_count=8&custom_title=Linguagens%20Mais%20Usadas" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusbarret0&layout=compact&theme=tokyonight&langs_count=8&custom_title=Linguagens%20Mais%20Usadas" height="180px" margin-left="10px"/>
 </p>
 
 ---
 
-<p align="center">
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Mateus+Barreto+%3A%29;Desenvolvedor+FullStack;Sempre+em+evolução!;Vamos+construir+algo+juntos!" alt="Typing SVG" />
-</p>
+</div>
