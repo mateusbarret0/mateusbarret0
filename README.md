@@ -12,8 +12,8 @@
   <a href="https://w.app/mateusbarret0" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-Contato-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <a href="https://github.com/mateusbarret0" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-mateusbarret0-6e5494?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="mailto:mateusoliveirabarreto2@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
