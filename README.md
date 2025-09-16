@@ -1,4 +1,4 @@
-  <img src="https://komarev.com/ghpvc/?username=mateusbarret0&style=for-the-badge&color=blue" alt="Visualizações no perfil" />
+<img src="https://komarev.com/ghpvc/?username=mateusbarret0&style=flat-square&color=blue" alt="Visualizações no perfil" />
 
 <h1 align="center">👋 Olá, eu sou o Mateus Barreto!</h1>
 
